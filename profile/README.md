@@ -15,4 +15,4 @@ The HyTEST Organization is excited to foster collaboration amongst members and n
 
 If you have bug fixes, suggestions, ideas for helpful tutorials or demos, course material, or want to share new developments in the hydrologic and atmospheric software community, please see further [details on contributing](https://github.com/hytest-org/hytest/blob/main/CONTRIBUTING.md). Please don’t hesitate to reach out to HyTEST members with any questions or problems with submitting an issue to the repo.
 
-If you would like to join us as a new member of the organization or co-owner, please reach out to one of our current organization owners.
+If you would like to join us as a new member of the organization or co-owner, please reach out to one of our current [organization owners](https://github.com/orgs/hytest-org/people?query=role%3Aowner).
